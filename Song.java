@@ -1,7 +1,7 @@
 // Thomas You
 // 4/10/17
 // CSE142
-// Assignment 1
+// Creates a song 
 
 public class Song {
    public static void main(String[] args) {
